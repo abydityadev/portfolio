@@ -10,8 +10,9 @@ export default function Footer() {
         © Copyright 2021 - 2023 Abyditya
       </p>
       <p className={twclsx("my-4 text-gray-400 mb-10")}>
-        “Be who you are and say what you feel, because those who mind don't
-        matter, and those who matter don't mind.” ― Bernard M. Baruch.
+        &lsquo;Be who you are and say what you feel, because those who mind
+        don't matter, and those who matter don't mind.&lsquo; ― Bernard M.
+        Baruch.
       </p>
       <div className={twclsx("flex justify-center")}>
         <ul className={twclsx("flex items-center gap-7")}>

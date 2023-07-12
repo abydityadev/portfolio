@@ -7,15 +7,15 @@ export default function page() {
         <h1 className="text-6xl font-medium mb-8">About</h1>
       </div>
       <p className="my-5">
-        Ayo What's Good?! I'm a 14 y/o self-taught developer from Indonesia and
-        I like to build cool stuff. I'm interested in web development, databases
-        and I use NextJS. I'm a huge fan of making, reading and contributing to
-        open source.
+        Ayo What&apos;s Good?! I&apos;m a 14 y/o self-taught developer from
+        Indonesia and I like to build cool stuff. I&apos;m interested in web
+        development, databases and I use NextJS. I&apos;m a huge fan of making,
+        reading and contributing to open source.
       </p>
       <p className="my-5">
-        Programming since 5th grade, I've learned a lot about Web Development. A
-        large proportion of my life is spent listening to all sorts of pop,
-        jazz, soft rock musics.
+        Programming since 5th grade, I&apos;ve learned a lot about Web
+        Development. A large proportion of my life is spent listening to all
+        sorts of pop, jazz, soft rock musics.
       </p>
       <div className="mb-10 mt-20">
         <h1 className="text-4xl font-medium mb-8 sm:text-6xl border-b border-b-zinc-800 pb-7">
